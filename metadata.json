@@ -1,0 +1,7 @@
+{
+  "name": "VU INSIGHT CREW",
+  "description": "Next-Gen Virtual University Academic Vault, Live Exam Paper Matrix, and Admin Command Center by Abdul Majid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
